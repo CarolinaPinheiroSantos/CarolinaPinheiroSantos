@@ -15,4 +15,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carol_pinheirinho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Carolina-Pinheiro-Dos-Santos) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarolinaPinheiroSantos/CarolinaPinheiroSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarolinaPinheiroSantos/CarolinaPinheiroSantos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarolinaPinheiroSantos/CarolinaPinheiroSantos/output/github-contribution-grid-snake.svg">
+</picture>
