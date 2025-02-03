@@ -1,10 +1,5 @@
 ## Oiee! Eu sou a Carol, seja bem-vindo<3
 
-<div>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CarolinaPinheiroSantos&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPinheiroSantos&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dracula&hide_border=true">
-</div>
-
 ##
 
 <div style="display: inline_block"><br>
