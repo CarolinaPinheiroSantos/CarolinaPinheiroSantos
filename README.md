@@ -1,5 +1,10 @@
 ## Oiee! Eu sou a Carol, seja bem-vindo<3
 
+<div style="width: 200px;">
+<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+</a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
