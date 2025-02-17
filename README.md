@@ -1,9 +1,9 @@
 ## Oiee! Eu sou a Carol, seja bem-vindo<3
 
-<div style="width: 200px;">
-<a href="https://github.com/CarolinaPinheiroSantos/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPinheiroSantos&langs_count=8" alt="Top Langs" />
-</a>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPinheiroSantos&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolinaPinheiroSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
