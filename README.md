@@ -8,9 +8,6 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Carolina-Pinheiro-Dos-Santos) 
-<br>
-
 <div>
   <a href="https://github.com/CarolinaPinheiroSantos">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPinheiroSantos&layout=compact&langs_count=7&theme=dracula" style="border: 0; outline: none;"/>
