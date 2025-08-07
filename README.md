@@ -33,4 +33,11 @@ Estudando:
   
 </div><br>
 
+  <div>
+    <a href="https://github.com/CarolinaPinheiroSantos">
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPinheiroSantos&layout=compact&langs_count=7&theme=dracula" style="border: 0; outline: none;"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolinaPinheiroSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="border: 0; outline: none;"/>
+    </a>
+  </div>
+
 
