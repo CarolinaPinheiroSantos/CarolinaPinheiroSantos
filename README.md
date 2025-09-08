@@ -31,6 +31,8 @@ Em aprendizado:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div><br>
 
+---
+
   <div>
     <a href="https://github.com/CarolinaPinheiroSantos">
       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPinheiroSantos&layout=compact&langs_count=7&theme=dracula" style="border: 0; outline: none;"/>
